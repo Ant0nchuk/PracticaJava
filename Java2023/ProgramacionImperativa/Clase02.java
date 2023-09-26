@@ -126,7 +126,8 @@ public class Clase02 {
         System.out.println("El porcentaje es: "+ resultado +"%");
         */
 
-        //ejercicio numero 2
+        //ejercicio numero 2 
+        // ***HACER GUIA PROGRAMACION ESTRUCTURADA
 
 
 
