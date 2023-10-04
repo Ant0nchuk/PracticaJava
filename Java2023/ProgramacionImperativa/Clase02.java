@@ -129,6 +129,11 @@ public class Clase02 {
         //ejercicio numero 2 
         // ***HACER GUIA PROGRAMACION ESTRUCTURADA
 
+        Scanner sc = new Scanner(System.in);
+        double dolares = sc.nextDouble();
+        double pesos = dolares * 800;
+        System.out.println("Los dolares ingresados son equivalentes a $ " + pesos);
+        sc.close();
 
 
 
